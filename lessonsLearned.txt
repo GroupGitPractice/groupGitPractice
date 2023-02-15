@@ -1,0 +1,12 @@
+1. need to give members of org write/admin permissions in settings
+2. need a .gitignore for bin and obj folders for merging conflicts
+3. git pull origin main --rebase creates a detached head branch (DO NOT WANT) that causes fatal errors with git pull and git push (You are currently not a branch)
+4. solution to the above mentioned issue:
+    - git checkout main //returns you to the main branch
+    - git merge //another command to pull/merge?
+    - accept both changes on changed files
+    - git add .
+    - git commit -m "commit message"
+    - git push
+    - SUCCESS
+-designated lines for members to write their code but line spacing and order of code were not merging as expected
