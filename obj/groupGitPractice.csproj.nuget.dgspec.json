@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj": {}
+    "C:\\Users\\ubinj\\Documents\\CodingDojo\\groupGitPractice\\groupGitPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj": {
+    "C:\\Users\\ubinj\\Documents\\CodingDojo\\groupGitPractice\\groupGitPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj",
+        "projectUniqueName": "C:\\Users\\ubinj\\Documents\\CodingDojo\\groupGitPractice\\groupGitPractice.csproj",
         "projectName": "groupGitPractice",
-        "projectPath": "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj",
-        "packagesPath": "C:\\Users\\Jacquelyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\obj\\",
+        "projectPath": "C:\\Users\\ubinj\\Documents\\CodingDojo\\groupGitPractice\\groupGitPractice.csproj",
+        "packagesPath": "C:\\Users\\ubinj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ubinj\\Documents\\CodingDojo\\groupGitPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacquelyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ubinj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
