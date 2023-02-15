@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj": {}
+    "/Users/aquilaolose/groupGitPractice/groupGitPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj": {
+    "/Users/aquilaolose/groupGitPractice/groupGitPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj",
+        "projectUniqueName": "/Users/aquilaolose/groupGitPractice/groupGitPractice.csproj",
         "projectName": "groupGitPractice",
-        "projectPath": "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\groupGitPractice.csproj",
-        "packagesPath": "C:\\Users\\Jacquelyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacquelyn\\OneDrive\\Documents\\GroupGitPractice\\groupGitPractice\\obj\\",
+        "projectPath": "/Users/aquilaolose/groupGitPractice/groupGitPractice.csproj",
+        "packagesPath": "/Users/aquilaolose/.nuget/packages/",
+        "outputPath": "/Users/aquilaolose/groupGitPractice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jacquelyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/aquilaolose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }

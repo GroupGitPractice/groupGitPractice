@@ -1,0 +1,15 @@
+/Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice
+/Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice.deps.json
+/Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice.runtimeconfig.json
+/Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice.dll
+/Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice.pdb
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.csproj.AssemblyReference.cache
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.AssemblyInfoInputs.cache
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.AssemblyInfo.cs
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.csproj.CoreCompileInputs.cache
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.dll
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/refint/groupGitPractice.dll
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.pdb
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.genruntimeconfig.cache
+/Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/ref/groupGitPractice.dll
