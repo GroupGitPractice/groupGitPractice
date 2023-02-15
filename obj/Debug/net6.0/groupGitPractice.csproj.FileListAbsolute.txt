@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice
 /Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice.deps.json
 /Users/aquilaolose/groupGitPractice/bin/Debug/net6.0/groupGitPractice.runtimeconfig.json
@@ -13,3 +14,20 @@
 /Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.pdb
 /Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/groupGitPractice.genruntimeconfig.cache
 /Users/aquilaolose/groupGitPractice/obj/Debug/net6.0/ref/groupGitPractice.dll
+=======
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\bin\Debug\net6.0\groupGitPractice.exe
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\bin\Debug\net6.0\groupGitPractice.deps.json
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\bin\Debug\net6.0\groupGitPractice.runtimeconfig.json
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\bin\Debug\net6.0\groupGitPractice.dll
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\bin\Debug\net6.0\groupGitPractice.pdb
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.csproj.AssemblyReference.cache
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.AssemblyInfoInputs.cache
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.AssemblyInfo.cs
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.csproj.CoreCompileInputs.cache
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.dll
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\refint\groupGitPractice.dll
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.pdb
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\groupGitPractice.genruntimeconfig.cache
+C:\Users\ubinj\Documents\CodingDojo\groupGitPractice\obj\Debug\net6.0\ref\groupGitPractice.dll
+>>>>>>> refs/remotes/origin/main

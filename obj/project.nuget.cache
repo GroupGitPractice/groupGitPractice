@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "QXMgToK2tmGWzJNCg+jZM/3KoUu7fgCNVC4hKsJUXISKVSDFuA+qE2Fve6B5w5VplID0K6sk6u9DGOVlz6tViA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "/Users/aquilaolose/groupGitPractice/groupGitPractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "u22ikvISskYF2cmD/bEK3vzWhCoe7J9pAq5bCKIGEdsvs94/5R9bFUYl+mmD/yRTMATnG9TjiqHIS24fQf4bSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ubinj\\Documents\\CodingDojo\\groupGitPractice\\groupGitPractice.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> refs/remotes/origin/main
 }
