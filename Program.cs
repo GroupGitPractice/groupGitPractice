@@ -11,3 +11,13 @@ foreach (var food in favoriteFoodList)
 {
     Console.WriteLine("I LOVE " + food);
 }
+
+
+// Create an array and loop through
+
+string[] favFoods = { "Pizza rolls", "Ramen", "Wings", "Sushi", "Fruit" };
+
+for (int i = 0; i < favFoods.Length; i++)
+{
+    Console.WriteLine(favFoods[i]);
+}
